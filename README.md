@@ -300,6 +300,3 @@ This project successfully demonstrated the application of supervised machine lea
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 - ML algorithms: Decision Tree, Random Forest, SVM
 
----
-
-*Generated for SENG 691 AI Agent Computing, UMBC - Spring 2026*
